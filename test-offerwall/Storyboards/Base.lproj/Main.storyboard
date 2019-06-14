@@ -92,7 +92,7 @@
                                 <attributedString key="attributedText">
                                     <fragment content="Slots machine!">
                                         <attributes>
-                                            <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                            <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <font key="NSFont" size="36" name="MarkerFelt-Wide"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
@@ -145,7 +145,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="8Gu-rF-I0T" firstAttribute="leading" secondItem="u5m-A3-ykk" secondAttribute="leading" id="73X-78-rBN"/>
                             <constraint firstItem="8Gu-rF-I0T" firstAttribute="top" secondItem="Q2k-F4-uJG" secondAttribute="bottom" constant="20" id="9Nm-Lw-yLS"/>
@@ -178,7 +178,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="bft-TO-zHN">
                         <barButtonItem key="rightBarButtonItem" style="plain" id="cYF-Ap-GHG">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="OdC-Zr-S54">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="OdC-Zr-S54">
                                 <rect key="frame" x="184" y="7" width="120" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.12442332909999999" green="0.34983099750000002" blue="0.99357730150000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -233,7 +233,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="rvq-Ah-eye">
                         <barButtonItem key="rightBarButtonItem" style="plain" id="9rp-g7-faL">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="4jX-pJ-8OG">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="4jX-pJ-8OG">
                                 <rect key="frame" x="184" y="7" width="120" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.12442332909999999" green="0.34983099750000002" blue="0.99357730150000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
